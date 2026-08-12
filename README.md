@@ -25,3 +25,9 @@ Runs the app in development mode at [http://localhost:3000](http://localhost:300
 ### `npm run build`
 
 Builds the production bundle inside the `build` folder.
+<img width="1887" height="796" alt="Screenshot 2026-08-12 174205" src="https://github.com/user-attachments/assets/48f5bf04-1fca-4c35-9d98-b09fae11d202" />
+
+<img width="1879" height="856" alt="Screenshot 2026-08-12 174231" src="https://github.com/user-attachments/assets/97bf018e-b4f0-41a2-b844-e66a48eba3a2" />
+
+
+
